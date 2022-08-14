@@ -1,8 +1,12 @@
 # vue-quiz
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3755f9b-04ac-4747-a2ec-4e66479f0555/deploy-status)](https://app.netlify.com/sites/super-cool-site-by-smissaertj/deploys)
 
 A simple quiz built with Vue.js and Vite.
 
-[demo]()  
+![Screenshot](screenshot.png)
+
+[**Demo**](https://super-cool-site-by-smissaertj.netlify.app/)  
+
 
 ## Local Setup
 
